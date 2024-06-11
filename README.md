@@ -9,10 +9,12 @@ README last updated 06/05/2024
 - Learn how to assess performance of machine learning models using scikit-learn
 
 ## 📜 Documentation
-#### Tutorial
+#### tutorial
 - iris.csv - contains the classic iris dataset used for machine learning training
 - tutorial.ipynb - contains script used for initial scikit-learn training
-#### Mini Project
-- Contains 2 datasets from kaggle to play with:
+#### thyroid_example
+- Contains dataset from kaggle to play with:
 - https://www.kaggle.com/datasets/jainaru/thyroid-disease-data
+#### liver_example
+- Contains dataset from kaggle to play with:
 - https://www.kaggle.com/datasets/aadarshvelu/liver-cirrhosis-stage-classification
